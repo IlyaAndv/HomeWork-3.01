@@ -59,7 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				7A68A6C12AA7B49100DF725A /* ViewControllers */,
-				7A68A6C22AA7B4A200DF725A /* LaunchScreens */,
+				7A68A6C22AA7B4A200DF725A /* Storyboards */,
 				7A68A6B22AA7B40E00DF725A /* Assets.xcassets */,
 				7A68A6C02AA7B45400DF725A /* SupportingFiles */,
 			);
@@ -84,13 +84,13 @@
 			path = ViewControllers;
 			sourceTree = "<group>";
 		};
-		7A68A6C22AA7B4A200DF725A /* LaunchScreens */ = {
+		7A68A6C22AA7B4A200DF725A /* Storyboards */ = {
 			isa = PBXGroup;
 			children = (
 				7A68A6AF2AA7B40D00DF725A /* Main.storyboard */,
 				7A68A6B42AA7B40E00DF725A /* LaunchScreen.storyboard */,
 			);
-			path = LaunchScreens;
+			path = Storyboards;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
